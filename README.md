@@ -3,6 +3,9 @@ Išmanus temperatūros valdomas ventiliatorius
 
 # Demo video:
 
+https://github.com/user-attachments/assets/0b2d40f8-779a-4cf6-958a-51779a38d8ea
+
+
 # Problem:
 Karštomis dienomis kambaryje oras greitai sušyla ir tampa tvanku. Visados nauodojau paprastą ventiliatorių
 tačiau ji reikėdavo reguliuoti rankiniu būdu - įjungti, išjungti ar keisti greitį priklausomai nuo temperatūros.
